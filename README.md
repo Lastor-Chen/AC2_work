@@ -1,15 +1,15 @@
-# Movie List
-A simple web application for movie fanatic
+## Fake sns
+假SNS社群網站的練習
+[Link to](https://lastor-chen.github.io/AC2_work/fake_sns/index.html)
 
-## Features
-- listing movies from movie api
-- searching movies by title
-- add movies to your favorite list
-- manage your favorite list
+## Movie List
+電影型錄網站的練習
+[Link to](https://lastor-chen.github.io/AC2_work/movie_list/index.html)
 
-### Searching
-type the title of the movies in search bar
-### Favorite List
-In index page, press the `+` button on the movie to keep it into favorite list.
-You can checkout the favorite list in `favorite.html`
-press `x` to remove it from favorite list
+## EasyToDo
+ToDo List app製作練習
+[Link to](https://lastor-chen.github.io/AC2_work/EasyToDo/index.html)
+
+## JavaScript Calculator
+JS模擬Win10計算機的練習
+[Link to](https://lastor-chen.github.io/AC2_work/js_calculator/index.html)
