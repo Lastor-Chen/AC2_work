@@ -1,0 +1,19 @@
+#list-mode i {
+  font-size: 1.8rem;
+  cursor: pointer;
+  text-align: center;
+
+  /* 加入一個透明邊框, 讓active切換時畫面不會抖動 */
+  border-radius: 10%;
+  border: 1px solid transparent;
+}
+
+#list-mode i.fa-bars {
+  width: 38.8px;
+}
+
+/**********************/
+/* JS 調用項 (非Bootstrap) */
+#list-mode i.active {
+  border: 1px solid #007bff;
+}

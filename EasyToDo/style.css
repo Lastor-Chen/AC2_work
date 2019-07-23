@@ -1,0 +1,64 @@
+h4 {
+  margin-bottom: 20px;
+}
+
+.fas {
+  margin: 0 5px;
+  color: #bbb;
+}
+
+li label {
+  width: 210px;
+}
+
+i, label {
+  cursor: pointer;
+}
+
+i {
+  width: 15px;
+  height: 20px;
+  text-align: center;
+}
+
+div.custom {
+  display: inline-block;
+  text-align: left;
+  padding: 1rem;
+  border: 1px solid #fff;
+  border-radius: 1rem;
+  background: rgb(179, 216, 236);
+  box-shadow: 0px 0px 0px 3px rgb(179, 216, 236);
+}
+
+div.inner {
+  background: #fff;
+  padding: 1em;
+  border-radius: 1rem;
+  border: 1px solid rgb(179, 216, 236);
+  box-shadow: 0px 0px 0px 2px #fff;
+}
+
+/**************************
+ hover特效 */
+
+#my-todo label:hover {
+  background-color: #91cdf0;
+}
+
+#my-done label:hover {
+  background-color: #344853;
+}
+
+i:hover {
+  color: #000;
+}
+
+/**************************
+ JS調用項 */
+
+.checked {
+  color: #ccc;
+  text-decoration: line-through;
+  font-style: italic;
+}
