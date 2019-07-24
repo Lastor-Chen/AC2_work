@@ -1,8 +1,4 @@
-### A26 FizzBuzz 測試練習
-- 使用 框架Mocha + 斷言庫Chia 寫test
-- [Link to](https://lastor-chen.github.io/AC2_work/A26_FizzBuzz/index.html)
-
-## Fake sns
+﻿## Fake sns
 - 假SNS社群網站的練習
 - [Link to](https://lastor-chen.github.io/AC2_work/fake_sns/index.html)
 
